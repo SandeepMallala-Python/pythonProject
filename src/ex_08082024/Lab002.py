@@ -1,5 +1,3 @@
 # First Python Code
-print("Hello World")
-print(2+2)
-print(2-2)
-print(2-3)
+print("This is My Second Code")
+print(10+20/2*5)
