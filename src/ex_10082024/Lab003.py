@@ -1,4 +1,3 @@
-print("hello world")
-a=10
-b=10
-print(a,b)
+print("Hello","Sandeep","Welcome","New Learning",sep="_",end="\n")
+print("Hello","Sandeep","Welcome","New Learning",sep=";",end="_")
+print("GoodLuck")
