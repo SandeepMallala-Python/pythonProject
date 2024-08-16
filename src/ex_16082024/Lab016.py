@@ -1,5 +1,5 @@
 # Printing table using userinput
-table=int(input("Enter table Number"))
+table=float(input("Enter table Number"))
 num=1
 print(f"{table}*1={table*num}")
 print(f"{table}*2={table*(num+1)}")
