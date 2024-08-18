@@ -17,6 +17,7 @@ y=int(input("Enter number y"))
 print(x**y)
 
 # What does the ^ operator do in Python, and in what context is it commonly used?
+# Binary XOR(^) Operator in Python
 x=int(input("Enter number x"))
 y=int(input("Enter number y"))
 print(x^y)
