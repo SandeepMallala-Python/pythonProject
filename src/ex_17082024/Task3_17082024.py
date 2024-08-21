@@ -20,9 +20,7 @@ print(x**y)
 # Binary XOR(^) Operator in Python
 x=int(input("Enter number x"))
 y=int(input("Enter number y"))
-print(x^y)
-
-
+print(x^2)
 
 
 
